@@ -38,4 +38,8 @@ Visualizing this dataset presents several challenges:
 - **Multivariate Complexity**: Variables like SST, pH, bleaching severity, and species counts interact in non-linear ways  
 - **Spatiotemporal Dynamics**: Patterns vary across both regions and time, requiring spatial and temporal analysis  
 - **Categorical and Continuous Mix**: With both numeric (SST, pH) and categorical (bleaching severity) data, unified visual representation is non-trivial  
-- **Event Detection**: Marine heatwaves, though Boolean, are critical events that must be highlighted in both time series and spatial maps  
+- **Event Detection**: Marine heatwaves, though Boolean, are critical events that must be highlighted in both time series and spatial maps
+
+---
+## Dashboard Wireframe
+![Dashboard Wireframw](/Sketch.png)
