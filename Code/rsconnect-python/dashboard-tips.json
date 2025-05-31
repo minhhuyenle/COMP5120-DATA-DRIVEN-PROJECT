@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "/Users/huyenle/data_visualisation_lab/dashboard-tips",
+        "app_url": "https://huyenle1607.shinyapps.io/shifting-sea1/",
+        "app_id": 14680194,
+        "app_guid": null,
+        "title": "shifting-sea",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}

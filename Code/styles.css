@@ -1,0 +1,23 @@
+:root {
+  --bslib-sidebar-main-bg: #f8f8f8;
+}
+
+.popover {
+  --bs-popover-header-bg: #222;
+  --bs-popover-header-color: #fff;
+}
+
+.popover .btn-close {
+  filter: var(--bs-btn-close-white-filter);
+}
+
+#map {
+  height: 500px;
+  width: 100%;
+}
+
+body {
+  background-color: #d6ecff;
+  /* Light background */
+  font-family: 'Segoe UI', sans-serif;
+}
